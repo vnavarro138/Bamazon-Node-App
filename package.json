@@ -1,0 +1,35 @@
+{
+  "name": "bamazon-node-app",
+  "version": "1.0.0",
+  "description": "bamazon store front",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vnavarro138/Bamazon-Node-App.git"
+  },
+  "keywords": [
+    "store",
+    "mySQL",
+    "database",
+    "amazon",
+    "bamazon",
+    "products",
+    "inventory"
+  ],
+  "author": "Veronica Navarro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vnavarro138/Bamazon-Node-App/issues"
+  },
+  "homepage": "https://github.com/vnavarro138/Bamazon-Node-App#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "console.table": "^0.10.0",
+    "inquirer": "^5.1.0",
+    "mysql": "^2.15.0",
+    "table": "^4.0.2"
+  }
+}
