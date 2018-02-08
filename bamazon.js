@@ -10,8 +10,8 @@ var connection = mysql.createConnection({
   // Your username
   user: "root",
 
-  // Your password
-  password: "Beh3re2009",
+  // Enter Your password
+  password: "",
   database: "bamazon_DB"
 });
 var productsPurchased = [];
